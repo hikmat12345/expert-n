@@ -47,7 +47,7 @@ function EmailVerificationCode() {
 
   const resendHandler = () => {
     setLoader(true);
-    ResendEmailAction(userId, true, authToken).then((result) => {
+    ResendEmailAction(userId, true).then((result) => {
       setLoader(false);
       setErrorMessage({
         type: true,

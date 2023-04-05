@@ -1,0 +1,48 @@
+.badge {
+  display: inline-block;
+  background-color: #ffffff;
+  font-family: Poppins;
+
+  color: #b1b4b7;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.back {
+  height: 20px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  color: #b1b4b7;
+  text-decoration: none;
+}
+.back:hover {
+  color: #b1b4b7;
+}
+.email {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600 !important;
+
+  text-align: left;
+  color: #444444;
+}
+.manage_emails {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 13px;
+  color: #4a4a4a;
+}
+.email_address {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 13px;
+  color: #6c6c6c;
+}

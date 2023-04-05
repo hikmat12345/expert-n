@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="21" viewBox="0 0 48 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_57" data-name="Rectangle 57" width="21" height="21" transform="translate(1086 57)" fill="#4a4a4a" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2450" data-name="Group 2450" transform="translate(-1086 -57)">
+    <g id="Mask_Group_24" data-name="Mask Group 24" clip-path="url(#clip-path)">
+      <g id="shopping-cart-2-line" transform="translate(1086 57)">
+        <path id="Path_65" data-name="Path 65" d="M0,0H21V21H0Z" fill="none"/>
+        <path id="Path_66" data-name="Path 66" d="M3.5,5.612.662,2.775,1.9,1.537,4.737,4.375H18.074A.875.875,0,0,1,18.912,5.5l-2.1,7a.875.875,0,0,1-.838.624H5.25v1.75h9.625v1.75H4.375A.875.875,0,0,1,3.5,15.75Zm1.75.513v5.25H15.323L16.9,6.125Zm-.437,14a1.313,1.313,0,1,1,1.313-1.312A1.313,1.313,0,0,1,4.813,20.125Zm10.5,0a1.313,1.313,0,1,1,1.313-1.312A1.313,1.313,0,0,1,15.313,20.125Z" fill="#4a4a4a"/>
+      </g>
+    </g>
+    <text id="Cart" transform="translate(1107 72)" fill="#4a4a4a" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Cart</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,207 @@
+.section_content { 
+    display: flex-end;
+    align-items: center;
+    justify-content: left;
+    border: 1px solid #ede6e6c7;
+    padding: 0px 0px 20px 20px;
+    border-radius: 9px;
+}
+.img_section {
+  border-radius: 50px;
+}
+.heading {
+  width: 239px;
+  height: 25px;
+  margin: 34px 21px 4px;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4a4a4a !important;
+}
+.details {
+  width: 169px; 
+  margin: 5px 100px 8px 20px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal; 
+  letter-spacing: normal;
+  text-align: left;
+  color: #ccd2d8 !important;
+}
+.redtext {
+  width: 114px;
+  height: 17px;
+  margin: 12px 71px 0 21px;
+   font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #db0406;
+  text-decoration: none;
+}
+.redtext:hover {
+  color: #db0406;
+}
+.basic_info {
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4a4a4a;
+}
+.wrapper_Text {
+  display: flex-end;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.left_text {
+  height: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ccd2d8;
+}
+.right_text {
+  width: 130px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  text-align: right;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+
+.right_email {
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #4a4a4a;
+
+  text-align: right;
+}
+.right_email1 {
+  width: 300px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+.third_email {
+  float: left;
+  display: flex-end;
+  align-items: left;
+  justify-content: end;
+}
+.right_email_icon {
+  width: 300px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #4a4a4a;
+}
+.style_left_text {
+  display: flex-end;
+  align-items: center;
+  justify-content: left;
+}
+
+.badge {
+  display: inline-block;
+  background-color: #ffffff;
+  color: #b1b4b7;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0px 10px;
+  border-radius: 4px;
+
+  margin-bottom: 14px;
+}
+/* ==========email section=========== */
+.row_two {
+  display: flex-end;
+  align-items: center;
+  justify-content: space-between;
+}
+.emails {
+  height: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ccd2d8;
+}
+.right_elements {
+  display: flex-end;
+  align-items: center;
+  justify-content: left;
+}
+.right_email11 {
+  width: 300px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #4a4a4a;
+  margin-right: -45px;
+}
+.right_email12 {
+  width: 300px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #4a4a4a;
+  margin-right: 7px;
+}
+.right_email13 {
+  width: 300px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #4a4a4a;
+  margin-right: -47px;
+}
